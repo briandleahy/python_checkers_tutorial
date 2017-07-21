@@ -1,10 +1,13 @@
 """
-This is a blank file. 
-It will test the implementation of checkers_tk.py step-by-step.
-You (Brian) will do this hackishly by creating a daughter class that
-inherits everything from the parent (which Michael wrote) except the
-init. Then use try-except clauses to duplicate the init and print out
-whether or not the user succeeded....? Can't check output.
+This file tests the implementation of checkers_tk.py step-by-step.
+
+Functions through a daughter class which inherits everything from
+the parent (that the ``student`` writes) except for the _initialize 
+
+Uses try-except clauses to step through the init and prints out whether or
+not the usre succeeded.
+
+The only problem is that it cannot check the visual output right now...
 """
 
 import os, sys
