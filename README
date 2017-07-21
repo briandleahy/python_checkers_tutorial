@@ -1,0 +1,4 @@
+This is a Python implementation of checkers. I'm trying to design this
+as a "homework problem" for people learning to code.
+
+The "student" would flesh out each class and check them with unit tests.
